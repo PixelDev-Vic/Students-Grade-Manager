@@ -31,36 +31,6 @@ Student 3 grades: 88 85 91 89 | Average: 88.25
 - Java Development Kit (JDK) 8 or higher
 - Any Java IDE or text editor
 
-### Running the Program
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/student-grades-manager.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd student-grades-manager
-   ```
-
-3. Compile the Java file:
-   ```bash
-   javac StudentGrades.java
-   ```
-
-4. Run the program:
-   ```bash
-   java StudentGrades
-   ```
-
-## Code Structure
-
-```
-StudentGrades.java
-├── calculateAverage()  # Method to calculate grade average
-└── main()             # Main method with grade data and output logic
-```
-
 ## Customization
 
 You can easily modify the program to:
